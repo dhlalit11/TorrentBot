@@ -30,7 +30,7 @@ curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
 ```
 Clone this repo:
 ```
-git clone https://github.com/eliasbenb/TorrentBot/
+git clone https://github.com/dhlalit11/TorrentBot/
 cd TorrentBot
 ```
 For WSL users:
